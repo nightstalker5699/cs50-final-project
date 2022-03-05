@@ -4,4 +4,4 @@
 
 # register
 ## register.py
- ![photo](images/register/Screenshot 2022-03-05 195340.png)
+ ![photo](readme images/register/Screenshot 2022-03-05 195340.png)
