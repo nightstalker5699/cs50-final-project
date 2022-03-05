@@ -1,7 +1,7 @@
 # MakeTheDogHappy
-#### Video Demo:  [youtube vid] (https://youtu.be/xcLHVQvV6vM)
+#### Video Demo: (https://youtu.be/xcLHVQvV6vM)
 #### description:
 
-#### register
-##### register.py
+# register
+## register.py
 
